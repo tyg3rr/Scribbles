@@ -2,3 +2,5 @@
 *.csv
 *.png
 *.xlsx
+*.env
+secrets.*
