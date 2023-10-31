@@ -4,3 +4,4 @@
 *.xlsx
 *.env
 secrets.*
+*.json
